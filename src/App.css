@@ -1,0 +1,20 @@
+*{
+    box-sizing: border-box;
+}
+
+.contenedor__general{
+    display: flex;
+}
+
+.contenedor__estaciones{
+    width: 50%;
+}
+
+.contenedor__networks{
+    width: 50%;
+    text-align: center;
+}
+
+.titulo__network{
+    cursor: pointer;
+}
