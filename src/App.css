@@ -8,11 +8,21 @@
 
 .contenedor__estaciones{
     width: 50%;
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid;
+    overflow-y: scroll;
+    max-height: 100vh;
 }
 
 .contenedor__networks{
     width: 50%;
     text-align: center;
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid;
+    overflow-y: scroll;
+    max-height: 100vh;
 }
 
 .titulo__network{
